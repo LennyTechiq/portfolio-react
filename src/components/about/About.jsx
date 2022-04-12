@@ -1,8 +1,6 @@
 import React from "react"
 import "./about.css"
 import ME from "../../assets/about.jpg"
-//import {FaAward} from "react-icons/fa"
-//import {FiUsers} from "react-icons/fi"
 
 const About = () => {
     return (
